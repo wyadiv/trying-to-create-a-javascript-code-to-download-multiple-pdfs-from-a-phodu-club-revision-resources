@@ -1,0 +1,2 @@
+# trying-to-create-a-javascript-code-to-download-multiple-pdfs-from-a-phodu-club-revision-resources
+laziness might lead to incredibility. There's a total of 88 pdfs that i have to manually click on and then it redirects me to another pdf opener on chrome from where i have to press ctrl+s and save it every single time so i thought why not instead of doing that build a javascript that helps me automate it and retrieve all pdfs at once have fun!!!
